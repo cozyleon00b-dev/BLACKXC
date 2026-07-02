@@ -1,0 +1,50 @@
+# ENKRIPSI KEYS
+master.key
+secret.key
+*.key
+
+# DATABASE
+database.json
+*.db
+*.json
+
+# LOGS
+*.log
+blackxc.log
+
+# DUMP RESULTS
+results/
+dump_*.txt
+dump_*.json
+super_dump_*.json
+
+# ENCRYPTED BACKUPS
+*.enc
+
+# PYTHON CACHE
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# VENV
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
