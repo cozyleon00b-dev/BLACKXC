@@ -403,23 +403,6 @@ GitHub: [cozyleon00b-dev](https://github.com/cozyleon00b-dev)
 
 **© 2026 cozyleon00b-dev — BLACKXC. All Rights Reserved.**
 
----
-
-## 🚀 **CARA UPLOAD `Tutorial.md` KE GITHUB**
-
-### ✅ **CARA 1 — LEWAT WEB GITHUB**
-1. Buka repo lo: `https://github.com/cozyleon00b-dev/BLACKXC`
-2. Klik **"Add file"** → **"Create new file"**
-3. Kasih nama: `Tutorial.md`
-4. **PASTE** semua isi di atas
-5. Klik **"Commit new file"**
-
-### ✅ **CARA 2 — LEWAT GIT (CMD)**
-```cmd
-cd C:\Users\asus\Downloads\Project Besar\BLACKXC
-notepad Tutorial.md
-# Paste semua isi di atas, simpan
-
 git add Tutorial.md
 git commit -m "Add Tutorial.md — 3 Languages"
 git push
