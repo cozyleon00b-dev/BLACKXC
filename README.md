@@ -11,3 +11,9 @@ By using this software, you agree to:
 - Use it only on your own servers or with explicit written permission
 - Accept full legal responsibility for your actions
 - Not hold the author liable for any consequences
+
+## Usage
+
+```bash
+python3 main.py
+```
